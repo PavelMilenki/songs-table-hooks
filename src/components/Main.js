@@ -60,6 +60,7 @@ export const Main = () => {
             return value[str] === selectedValue
         });
         if (selectedValue === ALL) {
+            setSelected(ALL);
             dispatch(getSongs());
         } else {
             setSelected(selectedValue);
