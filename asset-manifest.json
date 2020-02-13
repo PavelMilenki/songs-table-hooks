@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/songs-table-hooks/static/css/main.a4df7eea.chunk.css",
-    "main.js": "/songs-table-hooks/static/js/main.637f9278.chunk.js",
-    "main.js.map": "/songs-table-hooks/static/js/main.637f9278.chunk.js.map",
+    "main.js": "/songs-table-hooks/static/js/main.9a2f84c0.chunk.js",
+    "main.js.map": "/songs-table-hooks/static/js/main.9a2f84c0.chunk.js.map",
     "runtime-main.js": "/songs-table-hooks/static/js/runtime-main.8d5bb8b2.js",
     "runtime-main.js.map": "/songs-table-hooks/static/js/runtime-main.8d5bb8b2.js.map",
     "static/js/2.5a72315e.chunk.js": "/songs-table-hooks/static/js/2.5a72315e.chunk.js",
     "static/js/2.5a72315e.chunk.js.map": "/songs-table-hooks/static/js/2.5a72315e.chunk.js.map",
     "index.html": "/songs-table-hooks/index.html",
-    "precache-manifest.2b1eb9cf609d666fa0ac0870935c8b3b.js": "/songs-table-hooks/precache-manifest.2b1eb9cf609d666fa0ac0870935c8b3b.js",
+    "precache-manifest.f97eb53fbaebb56636e9db56f1424ee4.js": "/songs-table-hooks/precache-manifest.f97eb53fbaebb56636e9db56f1424ee4.js",
     "service-worker.js": "/songs-table-hooks/service-worker.js",
     "static/css/main.a4df7eea.chunk.css.map": "/songs-table-hooks/static/css/main.a4df7eea.chunk.css.map",
     "static/js/2.5a72315e.chunk.js.LICENSE.txt": "/songs-table-hooks/static/js/2.5a72315e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8d5bb8b2.js",
     "static/js/2.5a72315e.chunk.js",
     "static/css/main.a4df7eea.chunk.css",
-    "static/js/main.637f9278.chunk.js"
+    "static/js/main.9a2f84c0.chunk.js"
   ]
 }

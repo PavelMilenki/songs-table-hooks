@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e576d97f286548bb194a5b6a71932842",
+    "revision": "4499f0d3fde2847b05a7bcd322857a91",
     "url": "/songs-table-hooks/index.html"
   },
   {
-    "revision": "94464e0a64d51add7da4",
+    "revision": "90fad6d8a5fc1464f5ba",
     "url": "/songs-table-hooks/static/css/main.a4df7eea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/songs-table-hooks/static/js/2.5a72315e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94464e0a64d51add7da4",
-    "url": "/songs-table-hooks/static/js/main.637f9278.chunk.js"
+    "revision": "90fad6d8a5fc1464f5ba",
+    "url": "/songs-table-hooks/static/js/main.9a2f84c0.chunk.js"
   },
   {
     "revision": "f2af9de5ef31d47e8965",
